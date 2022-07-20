@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Abel';
+    src: url(../fonts/Abel/Abel-Regular.ttf);
+    font-weight: 400;
+}
+
+
+@font-face {
+    font-family: 'Noto Sans';
+    src: url(../fonts/Noto_Sans/NotoSans-Regular.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Noto Sans';
+    src: url(../fonts/Noto_Sans/NotoSans-SemiBold.ttf);
+    font-weight: 600;
+}
